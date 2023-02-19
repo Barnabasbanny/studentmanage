@@ -13,7 +13,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
- 
+  
 public class StudentMainActivity extends Activity {
 	EditText ename,eroll_no,emarks;
 	Button add,view,viewall,Show1,delete,modify;
